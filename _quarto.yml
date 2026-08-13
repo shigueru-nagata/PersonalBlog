@@ -20,7 +20,7 @@ format:
 
 
 listing:
-  contents: post
+  contents: posts
   sort: "date desc"
   type: default
   categories: true
