@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - cyborg
     css: styles.css
     toc: true
 
