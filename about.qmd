@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-About this site
+Este es un blog personal. Aunque quizas podras encontrar algún patron en los temas de las entradas, en realidad no esta enfocado en alguno específico. Podría haber temas de Linux, ciencia, música, o practicamente cualquier cosa que me interese. Trataré de colocar categorias para tener algo de orden, pero no prometo nada.
+Puedes encontrar más información sobre mí en el siguiente enlace <https://shiguerunagata.456753000.xyz/>
