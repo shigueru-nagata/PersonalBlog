@@ -1,9 +1,0 @@
----
-title: "Instalació mínima de Debian KDE"
-description: "Instlación mínima de del escritorio KDE en Debian 13"
-author: Shigueru Nagata
-date: "2026-08-13"
-categories: [linux]
----
-
-Tutorial para instalar Debian KDE minimo.
